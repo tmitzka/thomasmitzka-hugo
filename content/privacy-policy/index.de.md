@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Datenschutzerklärung"
+title: "Datenschutz"
 slug: "datenschutz"
 showDate: false
 showReadingTime: false
