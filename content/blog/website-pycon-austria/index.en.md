@@ -4,7 +4,7 @@ title: "Website of PyCon Austria"
 slug: "website-pycon-austria"
 date: 2025-10-15
 summary: "Insights about the website I created for the IT conference PyCon Austria."
-tags: ["PyCon Austria", "Python", "Pelican", "WordPress", "Project"]
+tags: ["PyCon Austria", "Python", "Pelican", "WordPress", "Projects"]
 showTableOfContents: true
 ---
 
