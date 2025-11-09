@@ -1,0 +1,25 @@
+# Hugo build output
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Hugo Cache
+/hugo_cache/
+/hugo_tmp/
+
+# Node/npm
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log

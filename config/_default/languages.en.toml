@@ -1,0 +1,35 @@
+disabled = false
+contentDir = "content"
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Thomas Mitzka"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "Jan 2, 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Personal website of Thomas Mitzka"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+    name = "Thomas Mitzka"
+    email = "tm@thomasmitzka.at"
+    image = "img/hills.webp"
+    imageQuality = 96
+    # headline = "Hi there! Well ... we're waiting?"
+    # bio = ""
+    links = [
+      { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
+      { github = "https://github.com/tmitzka/" },
+    ]
+
+[permalinks]
+  [permalinks.page]
+    posts = "/blog/:slug/"
+  [permalinks.section]
+  [permalinks.taxonomy]
+  [permalinks.term]

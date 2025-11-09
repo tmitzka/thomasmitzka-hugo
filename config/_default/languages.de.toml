@@ -1,0 +1,35 @@
+disabled = false
+contentDir = "content"
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
+title = "Thomas Mitzka"
+
+[params]
+  displayName = "DE"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. Jan 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Persönliche Website von Thomas Mitzka"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+    name = "Thomas Mitzka"
+    email = "tm@thomasmitzka.at"
+    image = "img/hills.webp"
+    imageQuality = 96
+    # headline = ""
+    # bio = ""
+    links = [
+      { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
+      { github = "https://github.com/tmitzka/" },
+    ]
+
+[permalinks]
+  [permalinks.page]
+    posts = "/blog/:slug/"
+  [permalinks.section]
+  [permalinks.taxonomy]
+  [permalinks.term]

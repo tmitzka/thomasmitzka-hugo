@@ -1,0 +1,43 @@
+/* Define custom fonts */
+
+@font-face {
+  font-family: "Alegreya Sans";
+  src: url("/fonts/AlegreyaSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  src: url("/fonts/AlegreyaSans-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  src: url("/fonts/AlegreyaSans-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Basic text */
+html { font-size: 20px; }
+body, p, li, a { font-family: "Alegreya Sans", sans-serif; }
+
+/* Blockquotes */
+blockquote p { font-size: 1.2rem; }
+
+/* Font weights */
+.font-light { font-weight: 300; }
+.font-regular { font-weight: 400; }
+.font-medium { font-weight: 500; }
+.font-semibold { font-weight: 600; }
+.font-bold { font-weight: 700; }
+.font-extrabold { font-weight: 800; }
+
+/* Year heading for blog posts & projects */
+.mt-12 { font-size: 1.35rem; color: gray; }
