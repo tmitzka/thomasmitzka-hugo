@@ -23,8 +23,11 @@ title = "Thomas Mitzka"
     # headline = ""
     # bio = ""
     links = [
-      { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
       { github = "https://github.com/tmitzka/" },
+      { code = "https://github.com/tmitzka/thomasmitzka-hugo/" },
+      { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
+      { link = "https://einfachstoisch.at" },
+      { email = "mailto:tm@thomasmitzka.at" },
     ]
 
 [permalinks]
