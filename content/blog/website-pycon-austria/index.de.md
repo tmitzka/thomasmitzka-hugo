@@ -8,7 +8,7 @@ tags: ["PyCon Austria", "Python", "Pelican", "WordPress", "Projekte"]
 showTableOfContents: true
 ---
 
-2025 fand erstmals die **PyCon Austria** statt – eine neue IT-Konferenz rund um die Programmiersprache **Python**.
+2025 fand erstmals die **PyCon Austria** statt – eine IT-Konferenz rund um die Programmiersprache **Python**.
 Ich durfte die Website für diese Veranstaltung konzipieren und umsetzen. Mein Ziel: eine Plattform, die sich einfach pflegen lässt und den Spirit der Community widerspiegelt.
 
 ## Anforderungen
@@ -42,7 +42,7 @@ Die Lösung: ein **Static Site Generator** anstelle eines CMS. Statische Website
 
 Passend zu Python als Thema der Konferenz, habe ich mich für [**Pelican**](https://getpelican.com/) entschieden, einen Static Site Generator auf Basis von Python. Das Redaktionsteam bearbeitet die Seiten jetzt direkt als **Markdown-Dateien**, ganz ohne Login oder Backend.
 
-In Absprache mit den Organisatoren habe außerdem die Struktur des Webauftritts neu gestaltet:
+Außerdem habe ich die Struktur des Webauftritts neu gestaltet:
 Die Hauptdomain [**pycon.at**](https://pycon.at) dient als zentrale Landing Page, während die Jahres-Websites über Subdomains erreichbar sind. Das macht die Archivierung einfacher und ermöglicht eigenständige Designs für jede Ausgabe der Konferenz.
 
 Für 2025 und 2026 habe ich das Theme
