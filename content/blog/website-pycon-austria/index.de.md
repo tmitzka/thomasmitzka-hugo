@@ -30,7 +30,7 @@ Jeder Vortrag oder Workshop konnte im Backend mit den passenden Speakern verknü
 
 ![Ansicht der Website „PyCon Austria 2025“](pycon-austria-2025-website.webp "Website der PyCon Austria 2025 (WordPress)")
 
-Grundsätzlich hat die Website gut funktioniert, ich habe dafür mehrfach positives Feedback von Organisator:innen und Teilnehmer:innen bekommen. Im Betrieb hat sich aber ein Problem gezeigt: Speaker, Talks und Workshops wurden **ausschließlich in WordPress** gepflegt – ohne Schnittstelle zu dem System, über das Einreichungen verwaltet wurden.
+Grundsätzlich hat die Website gut funktioniert, ich habe dafür mehrfach positives Feedback bekommen. Im Betrieb hat sich aber ein Problem gezeigt: Speaker, Talks und Workshops wurden **ausschließlich in WordPress** gepflegt – ohne Schnittstelle zu dem System, über das Einreichungen verwaltet wurden.
 
 Bei Konferenzen wie der PyCon Austria werden Vorträge über einen *Call for Papers* eingereicht.
 Diese Beiträge werden auf einer externen Plattform bewertet. Änderungen an Titeln, Beschreibungen oder Personendaten mussten daher manuell in WordPress nachgetragen werden – das war unnötiger Aufwand.

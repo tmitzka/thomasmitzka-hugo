@@ -28,8 +28,7 @@ JetPlugins also provides the option to define relationships between CPTs. Each t
 
 ![View of the “PyCon Austria 2025” website](pycon-austria-2025-website.webp "Website of PyCon Austria 2025 (WordPress)")
 
-Overall, the website worked well and received positive feedback from both organizers and attendees.
-However, one challenge became clear: speakers, talks, and workshops were **managed exclusively in WordPress**, without integration to the system used for submissions.
+Overall, the website worked well and received positive feedback. However, one challenge became clear: speakers, talks, and workshops were **managed exclusively in WordPress**, without integration to the system used for submissions.
 
 At conferences like PyCon Austria, talks are submitted through a *Call for Papers*.  
 These submissions are reviewed on an external platform. Any changes to titles, descriptions, or personal details had to be manually updated in WordPress — an unnecessary amount of work.
