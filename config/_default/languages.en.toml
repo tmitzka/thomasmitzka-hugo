@@ -24,7 +24,6 @@ title = "Thomas Mitzka"
     # bio = ""
     links = [
       { github = "https://github.com/tmitzka/" },
-      { code = "https://github.com/tmitzka/thomasmitzka-hugo/" },
       { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
       { email = "mailto:tm@thomasmitzka.at" },
     ]
