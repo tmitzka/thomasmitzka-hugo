@@ -25,7 +25,6 @@ title = "Thomas Mitzka"
     links = [
       { github = "https://github.com/tmitzka/" },
       { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
-      { link = "https://einfachstoisch.at" },
       { email = "mailto:tm@thomasmitzka.at" },
     ]
 
