@@ -1,7 +1,7 @@
 disabled = false
 contentDir = "content"
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 weight = 2
 title = "Thomas Mitzka"
 

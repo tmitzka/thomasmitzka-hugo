@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://thomasmitzka.at"
-languageCode = "de"
+locale = "de"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
 
