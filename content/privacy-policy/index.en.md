@@ -41,10 +41,10 @@ longer storage is required.
 
 ## Web analysis
 
-I use **[Simple Analytics](https://www.simpleanalytics.com)** to obtain anonymized
+I use **[GoatCounter](https://www.goatcounter.com/)** to obtain anonymized
 statistics about the use of the website.
 
-Simple Analytics **does not set cookies** and **does not collect personal data**.
+GoatCounter **does not set cookies** and **does not collect personal data**.
 The data is **hosted in the EU**. Purpose of the analysis: to improve the website and
 optimize its content.
 

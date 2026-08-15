@@ -41,10 +41,10 @@ längere Speicherung erforderlich ist.
 
 ## Web-Analyse
 
-Ich verwende **[Simple Analytics](https://www.simpleanalytics.com)**, um anonymisierte
+Ich verwende **[GoatCounter](https://www.goatcounter.com/)**, um anonymisierte
 Statistiken über die Nutzung der Website zu erhalten.
 
-Simple Analytics **setzt keine Cookies** und sammelt **keine personenbezogenen Daten**.
+GoatCounter **setzt keine Cookies** und sammelt **keine personenbezogenen Daten**.
 Die Daten werden **in der EU gehostet**. Zweck der Analyse: Verbesserung der Website und
 Optimierung der Inhalte.
 
