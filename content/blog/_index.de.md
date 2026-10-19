@@ -1,6 +1,8 @@
 ---
 title: "Blog"
 slug: "blog"
-url: "/de/blog/"
+url: "/blog/"
+aliases:
+  - /de/blog/
 description: "Beiträge zu Projekten und Gedanken."
 ---
