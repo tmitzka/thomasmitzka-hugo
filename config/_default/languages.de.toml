@@ -20,11 +20,11 @@ title = "Thomas Mitzka"
     email = "tm@thomasmitzka.at"
     image = "img/hills.webp"
     imageQuality = 96
-    # headline = ""
+    headline = "IT-Koordinator an der Schnittstelle zwischen Technik und Fachbereich"
     # bio = ""
     links = [
-      { github = "https://github.com/tmitzka/" },
       { linkedin = "https://www.linkedin.com/in/thomasmitzka/" },
+      { github = "https://github.com/tmitzka/" },
       { email = "mailto:tm@thomasmitzka.at" },
     ]
 
